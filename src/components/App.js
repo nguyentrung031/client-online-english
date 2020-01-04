@@ -9,8 +9,8 @@ import Main from '../Router/main';
 
 class App extends Component {
   componentDidMount(){
-		this.props.getDataTopic();
-		this.props.getDataGrammar();
+		// this.props.getDataTopic();
+		// this.props.getDataGrammar();
 	}
   render() {
     return (
